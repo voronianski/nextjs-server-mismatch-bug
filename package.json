@@ -1,0 +1,36 @@
+{
+  "author": "",
+  "dependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.8.6",
+    "@babel/plugin-syntax-jsx": "^7.8.3",
+    "@babel/preset-env": "7.8.6",
+    "@babel/preset-react": "7.8.3",
+    "@babel/runtime": "^7.8.4",
+    "@emotion/babel-preset-css-prop": "^10.0.9",
+    "@emotion/core": "^10.0.10",
+    "@emotion/is-prop-valid": "^0.7.3",
+    "@emotion/styled": "^10.0.10",
+    "@next/bundle-analyzer": "^9.3.4",
+    "@sumup/circuit-ui": "^1.7.0",
+    "@zeit/next-source-maps": "0.0.3",
+    "babel-loader": "^8.0.4",
+    "babel-plugin-dynamic-import-node": "^2.3.0",
+    "babel-preset-latest-node": "^2.0.2",
+    "core-js": "^3.6.4",
+    "emotion-theming": "^10.0.10",
+    "next": "^9.3.4",
+    "next-compose-plugins": "^2.2.0",
+    "next-transpile-modules": "^3.1.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "description": "",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "nextjs-server-mismatches",
+  "scripts": {
+    "start": "next"
+  },
+  "version": "1.0.0"
+}
